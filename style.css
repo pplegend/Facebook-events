@@ -1,0 +1,39 @@
+
+		#create_event_div{position:relative;float:left;width:25%;}
+		#map_canvas { position: relative; bottom: -5px;height: 75%;width: 45%;float:left; margin-left:1%;}
+		.fb-live-stream{position: relative;left:2%;}
+		#search { width: 50%; margin-left:auto;margin-top: 10px; margin-right: auto;}
+		#login_button{position:relative; bottom: 5px;left: 10%;margin-bottom:15px;}
+		#like_link{position:absolute; bottom: -10px; left: 10%;}
+		button {
+    -moz-user-select: none;
+    background: #2A49A5;
+    border: 1px solid #082783;
+    box-shadow: 0 1px #4C6BC7 inset;
+    color: white;
+    padding: 3px 5px;
+    text-decoration: none;
+    text-shadow: 0 -1px 0 #082783;
+    font: 12px Verdana, sans-serif;
+	float:right;
+}
+		#create_event{
+	border-style:solid;
+	border-width:1px;
+	border-color:#D7DAE1;
+	
+	margin-bottom:0px;
+	padding:0px;
+	}
+	.create_head{
+	background-color:#3B5998;
+	height:30px;
+	
+	color:white;
+	margin:0px;
+	padding:0px;
+	font-family:"Tahoma";
+	font-weight: bold;
+	line-height:30px;
+	}
+		

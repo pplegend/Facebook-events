@@ -1,0 +1,26 @@
+This application requires:
+1.PHP environment.
+2.App ID from facebook.
+3.Javascript enabled in browser.
+
+The installation is very simple: 
+1.Copy all the files to your root folder
+2.Change the appid in index.php file to your App ID that you get from facebook
+
+Functionality:
+1. Basic integration:
+* FB-like button
+* comment view
+* Google maps for display events
+
+2. Deeper Integration
+* Authentication towards FB
+* Pulling the events from FB into the maps 
+* Push the events into FB 
+
+
+Bugs:
+* FB SDK script ill.'s sometime problematic. It is due to the async issue. Not have time to find solution.
+* The comment view does not work well in IE. Sometimes it is missing.
+
+check the wiki for documentation, architecture diagram and network diagram.
